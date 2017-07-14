@@ -13,6 +13,7 @@ To execute a command without showing the confirmation window, copy the below com
 To perform the same command multiple times, copy the below command:
 
     xCMDx@1:start cmd
+
 ##Examples
 ###Batch / CMD
 
@@ -27,3 +28,10 @@ To perform the same command multiple times, copy the below command:
     aux.focus();
     document.execCommand("copy");
     document.body.removeChild(aux);
+
+##Screenshots
+![](pictures/1.png)
+
+![](pictures/2.png)
+
+![](pictures/3.png)
