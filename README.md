@@ -35,3 +35,5 @@ To perform the same command multiple times, copy the below command:
 ![](pictures/2.png)
 
 ![](pictures/3.png)
+
+[![Analytics](https://ga-beacon.appspot.com/UA-85426772-5/xCMDx/?pixel)](https://github.com/igrigorik/ga-beacon)
